@@ -1,4 +1,4 @@
-## Hi there!
+## 💬 About me 
 <h1 align="center">Hi! I'm Sarah Jerbi</h1>
 <h3 align="left">I'm an undergraduate student majoring in Computational & Data Sciences. I'm currently focused on strengthening my coding skills, building small projects, and preparing for entry-level data roles.</h3>
 
