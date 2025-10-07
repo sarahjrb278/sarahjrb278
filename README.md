@@ -1,8 +1,8 @@
 ## Hi there!
 <h1 align="center">Hi! I'm Sarah Jerbi</h1>
-<h3 align="center">I'm an undergraduate student majoring in Computational & Data Sciences. I'm currently focused on strengthening my coding skills, building small projects, and preparing for entry-level data roles.</h3>
+<h3 align="left">I'm an undergraduate student majoring in Computational & Data Sciences. I'm currently focused on strengthening my coding skills, building small projects, and preparing for entry-level data roles.</h3>
 
-- How to reach me **sarahjerbi27@gmail.com**
+How to reach me **sarahjerbi27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
